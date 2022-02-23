@@ -1,0 +1,10 @@
+.videoRow{
+    display: flex;
+    width: 70%;
+    margin-top: 20px;
+}
+.videoRow_thumbnail{
+    width:270px;
+    height: 140px;
+    margin-right: 20px;
+}
